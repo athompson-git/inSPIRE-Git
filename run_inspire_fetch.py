@@ -6,9 +6,11 @@ from time import sleep
 # Search: papers mentioning github in fulltext
 BASE_URL = "https://inspirehep.net/api/literature"
 
+# default param dict
 params = {
     "q": "fulltext:github.com/",
-    "size": 5000,  # adjust as needed
+    "size": 250,  # results per page
+    "page": 1,  # page number
     "fields": "authors,external_system_identifiers,metadata,preprint_date,earliest_date,dois,arxiv_eprints,citation_count,titles,urls" 
 }
 
