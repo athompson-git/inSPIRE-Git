@@ -1,0 +1,1897 @@
+[
+  {
+    "id": "1699160",
+    "title": "easyaccess: Enhanced SQL command line interpreter for astronomical surveys",
+    "authors": [
+      "Carrasco Kind, Matias",
+      "Drlica-Wagner, Alex",
+      "Koziol, Audrey M.G.",
+      "Petravick, Don"
+    ],
+    "arxiv": "1810.02721",
+    "citations": 8,
+    "year": "2018",
+    "urls": [
+      "https://github.com/mgckind/easyaccess"
+    ]
+  },
+  {
+    "id": "1730341",
+    "title": "The Effect of Hole Ice on the Propagation and Detection of Light in IceCube",
+    "authors": [
+      "Fiedlschuster, Sebastian"
+    ],
+    "arxiv": "1904.08422",
+    "citations": 5,
+    "year": "2019",
+    "urls": [
+      "https://github.com/fiedl/hole-ice-latex"
+    ]
+  },
+  {
+    "id": "1510101",
+    "title": "Corral Framework: Trustworthy and Fully Functional Data Intensive Parallel Astronomical Pipelines",
+    "authors": [
+      "Cabral, Juan B.",
+      "Sánchez, Bruno",
+      "Beroiz, Martín",
+      "Domínguez, Mariano",
+      "Lares, Marcelo",
+      "Gurovich, Sebastián",
+      "Granitto, Pablo"
+    ],
+    "arxiv": "1701.05566",
+    "citations": 1,
+    "year": "2017",
+    "urls": [
+      "https://github.com/toros-astro/corral"
+    ]
+  },
+  {
+    "id": "1614128",
+    "title": "Bifrost: a Python/C++ Framework for High-Throughput Stream Processing in Astronomy",
+    "authors": [
+      "Cranmer, Miles D.",
+      "Barsdell, Benjamin R.",
+      "Price, Danny C.",
+      "Dowell, Jayce",
+      "Garsden, Hugh",
+      "Dike, Veronica",
+      "Eftekhari, Tarraneh",
+      "Hegedus, Alexander M.",
+      "Malins, Joseph",
+      "Obenberger, Kenneth S.",
+      "Schinzel, Frank",
+      "Stovall, Kevin",
+      "Taylor, Gregory B.",
+      "Greenhill, Lincoln J."
+    ],
+    "arxiv": "1708.00720",
+    "citations": 3,
+    "year": "2017",
+    "urls": [
+      "https://github.com/ledatelescope/bifrost"
+    ]
+  },
+  {
+    "id": "1769182",
+    "title": "EspressoDB: A scientific database for managing high-performance computing workflows",
+    "authors": [
+      "Chang, Chia Cheng",
+      "Körber, Christopher",
+      "Walker-Loud, André"
+    ],
+    "arxiv": "1912.03580",
+    "citations": 8,
+    "year": "2019",
+    "urls": [
+      "https://github.com/callat-qcd/espressodb"
+    ]
+  },
+  {
+    "id": "1746174",
+    "title": "SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python",
+    "authors": [
+      "Virtanen, Pauli",
+      "Gommers, Ralf",
+      "Oliphant, Travis E.",
+      "Haberland, Matt",
+      "Reddy, Tyler",
+      "Cournapeau, David",
+      "Burovski, Evgeni",
+      "Peterson, Pearu",
+      "Weckesser, Warren",
+      "Bright, Jonathan",
+      "van der Walt, Stéfan J.",
+      "Brett, Matthew",
+      "Wilson, Joshua",
+      "Millman, K. Jarrod",
+      "Mayorov, Nikolay",
+      "Nelson, Andrew R.J.",
+      "Jones, Eric",
+      "Kern, Robert",
+      "Larson, Eric",
+      "Carey, Cj",
+      "Polat, İlhan",
+      "Feng, Yu",
+      "Moore, Eric W.",
+      "VanderPlas, Jake",
+      "Laxalde, Denis",
+      "Perktold, Josef",
+      "Cimrman, Robert",
+      "Henriksen, Ian",
+      "Quintero, E.A.",
+      "Harris, Charles R.",
+      "Archibald, Anne M.",
+      "Ribeiro, Antônio H.",
+      "Pedregosa, Fabian",
+      "van Mulbregt, Paul",
+      "Vijaykumar, Aditya",
+      "Bardelli, Alessandro Pietro",
+      "Rothberg, Alex",
+      "Hilboll, Andreas",
+      "Kloeckner, Andreas",
+      "Scopatz, Anthony",
+      "Lee, Antony",
+      "Rokem, Ariel",
+      "Woods, C. Nathan",
+      "Fulton, Chad",
+      "Masson, Charles",
+      "Brueffer, Christian",
+      "Häggström, Christian",
+      "Fitzgerald, Clark",
+      "Nicholson, David A.",
+      "Hagen, David R.",
+      "Pasechnik, Dmitrii V.",
+      "Olivetti, Emanuele",
+      "Martin, Eric",
+      "Wieser, Eric",
+      "Silva, Fabrice",
+      "Lenders, Felix",
+      "Wilhelm, Florian",
+      "Young, G.",
+      "Price, Gavin A.",
+      "Ingold, Gert-Ludwig",
+      "Allen, Gregory E.",
+      "Lee, Gregory R.",
+      "Audren, Hervé",
+      "Probst, Irvin",
+      "Dietrich, Jörg P.",
+      "Silterra, Jacob",
+      "Webber, James T.",
+      "Slavič, Janko",
+      "Nothman, Joel",
+      "Buchner, Johannes",
+      "Kulick, Johannes",
+      "Schönberger, Johannes L.",
+      "de Miranda Cardoso, José Vinícius",
+      "Reimer, Joscha",
+      "Harrington, Joseph",
+      "Rodríguez, Juan Luis Cano",
+      "Nunez-Iglesias, Juan",
+      "Kuczynski, Justin",
+      "Tritz, Kevin",
+      "Thoma, Martin",
+      "Kümmerer, Matthias",
+      "Bolingbroke, Maximilian",
+      "Tartre, Michael",
+      "Pak, Mikhail",
+      "Smith, Nathaniel J.",
+      "Nowaczyk, Nikolai",
+      "Shebanov, Nikolay",
+      "Pavlyk, Oleksandr",
+      "Brodtkorb, Per A.",
+      "Lee, Perry",
+      "McGibbon, Robert T.",
+      "Feldbauer, Roman",
+      "Lewis, Sam",
+      "Tygier, Sam",
+      "Sievert, Scott",
+      "Vigna, Sebastiano",
+      "Peterson, Stefan",
+      "More, Surhud",
+      "Pudlik, Tadeusz",
+      "Oshima, Takuya",
+      "Pingel, Thomas J.",
+      "Robitaille, Thomas P.",
+      "Spura, Thomas",
+      "Jones, Thouis R.",
+      "Cera, Tim",
+      "Leslie, Tim",
+      "Zito, Tiziano",
+      "Krauss, Tom",
+      "Upadhyay, Utkarsh",
+      "Halchenko, Yaroslav O.",
+      "Vázquez-Baeza, Yoshiki"
+    ],
+    "arxiv": "1907.10121",
+    "citations": 5462,
+    "year": "2019",
+    "urls": [
+      "https://github.com/scipy/scipy-articles"
+    ]
+  },
+  {
+    "id": "1782277",
+    "title": "OTSLM Toolbox for Structured Light Methods",
+    "authors": [
+      "Lenton, Isaac C.D.",
+      "Stilgoe, Alexander B.",
+      "Nieminen, Timo A.",
+      "Rubinsztein-Dunlop, Halina"
+    ],
+    "arxiv": "2002.10564",
+    "citations": 0,
+    "year": "2020",
+    "urls": [
+      "https://github.com/ilent2/otslm"
+    ]
+  },
+  {
+    "id": "1732565",
+    "title": "Concerns about the reliability of publicly available SNe Ia data",
+    "authors": [
+      "Rameez, Mohamed"
+    ],
+    "arxiv": "1905.00221",
+    "citations": 16,
+    "year": "2019",
+    "urls": [
+      "https://github.com/rameez3333/PantheonvsJLAcrosschecks"
+    ]
+  },
+  {
+    "id": "1751578",
+    "title": "qnm: A Python package for calculating Kerr quasinormal modes, separation constants, and spherical-spheroidal mixing coefficients",
+    "authors": [
+      "Stein, Leo C."
+    ],
+    "arxiv": "1908.10377",
+    "citations": 107,
+    "year": "2019",
+    "urls": [
+      "https://github.com/duetosymmetry/qnm"
+    ]
+  },
+  {
+    "id": "1670867",
+    "title": "Open Astronomy Catalogs API",
+    "authors": [
+      "Guillochon, James",
+      "Cowperthwaite, Philip S."
+    ],
+    "arxiv": "1804.10847",
+    "citations": 2,
+    "year": "2018",
+    "urls": [
+      "https://github.com/astrocatalogs/OACAPI"
+    ]
+  },
+  {
+    "id": "1495722",
+    "title": "DDalphaAMG for Twisted Mass Fermions",
+    "authors": [
+      "Bacchio, Simone",
+      "Alexandrou, Costantia",
+      "Finkenrath, Jacob",
+      "Frommer, Andreas",
+      "Kahl, Karsten",
+      "Rottmann, Matthias"
+    ],
+    "arxiv": "1611.01034",
+    "citations": 11,
+    "year": "2016",
+    "urls": [
+      "https://github.com/sbacchio/DDalphaAMG"
+    ]
+  },
+  {
+    "id": "1243094",
+    "title": "Enrico : a Python package to simplify Fermi-LAT analysis",
+    "authors": [
+      "Sanchez, D.A.",
+      "Deil, C."
+    ],
+    "arxiv": "1307.4534",
+    "citations": 35,
+    "year": "2013",
+    "urls": [
+      "https://github.com/gammapy/enrico"
+    ]
+  },
+  {
+    "id": "1799886",
+    "title": "An Automated Generation of Bootstrap Equations for Numerical Study of Critical Phenomena",
+    "authors": [
+      "Go, Mocho"
+    ],
+    "arxiv": "2006.04173",
+    "citations": 10,
+    "year": "2020",
+    "urls": [
+      "https://github.com/selpoG/qboot/"
+    ]
+  },
+  {
+    "id": "1783759",
+    "title": "Pre-Common-Envelope Mass Loss from Coalescing Binary Systems",
+    "authors": [
+      "MacLeod, Morgan",
+      "Loeb, Abraham"
+    ],
+    "arxiv": "2003.01123",
+    "citations": 38,
+    "year": "2020",
+    "urls": [
+      "https://github.com/morganemacleod/RLOF"
+    ]
+  },
+  {
+    "id": "1728522",
+    "title": "Parallelized Inference for Gravitational-Wave Astronomy",
+    "authors": [
+      "Talbot, Colm",
+      "Smith, Rory",
+      "Thrane, Eric",
+      "Poole, Gregory B."
+    ],
+    "arxiv": "1904.02863",
+    "citations": 123,
+    "year": "2019",
+    "urls": [
+      "https://github.com/ColmTalbot/gwpopulation"
+    ]
+  },
+  {
+    "id": "1802414",
+    "title": "Discovering Symbolic Models from Deep Learning with Inductive Biases",
+    "authors": [
+      "Cranmer, Miles",
+      "Sanchez-Gonzalez, Alvaro",
+      "Battaglia, Peter",
+      "Xu, Rui",
+      "Cranmer, Kyle",
+      "Spergel, David",
+      "Ho, Shirley"
+    ],
+    "arxiv": "2006.11287",
+    "citations": 68,
+    "year": "2020",
+    "urls": [
+      "https://github.com/MilesCranmer/symbolic_deep_learning"
+    ]
+  },
+  {
+    "id": "1700193",
+    "title": "The Second International Pulsar Timing Array Mock Data Challenge",
+    "authors": [
+      "Hazboun, Jeffrey S.",
+      "Mingarelli, Chiara M.F.",
+      "Lee, Kejia"
+    ],
+    "arxiv": "1810.10527",
+    "citations": 21,
+    "year": "2018",
+    "urls": [
+      "https://github.com/ipta/mdc2"
+    ]
+  },
+  {
+    "id": "1659309",
+    "title": "Multiple spectator condensates from inflation",
+    "authors": [
+      "Hardwick, Robert J."
+    ],
+    "arxiv": "1803.03521",
+    "citations": 11,
+    "year": "2018",
+    "urls": [
+      "https://github.com/umbralcalc/nfield"
+    ]
+  },
+  {
+    "id": "1807908",
+    "title": "ULYSSES: Universal LeptogeneSiS Equation Solver",
+    "authors": [
+      "Granelli, Alessandro",
+      "Moffat, Kristian",
+      "Perez-Gonzalez, Yuber F.",
+      "Schulz, Holger",
+      "Turner, Jessica"
+    ],
+    "arxiv": "2007.09150",
+    "citations": 43,
+    "year": "2020",
+    "urls": [
+      "https://github.com/earlyuniverse/ulysses"
+    ]
+  },
+  {
+    "id": "1394737",
+    "title": "Gammapy - A Python package for $\\gamma$-ray astronomy",
+    "authors": [
+      "Donath, Axel",
+      "Deil, Christoph",
+      "Arribas, Manuel P.",
+      "King, Johannes",
+      "Owen, Ellis",
+      "Terrier, Régis",
+      "Reichardt, Ignasi",
+      "Harris, Jon",
+      "Bühler, Rolf",
+      "Klepser, Stefan"
+    ],
+    "arxiv": "1509.07408",
+    "citations": 20,
+    "year": "2015",
+    "urls": [
+      "https://github.com/gammapy/gammapy"
+    ]
+  },
+  {
+    "id": "1674764",
+    "title": "A Short Research Note on Calculating Exact Distribution Functions and Random Sampling for the 3D NFW Profile",
+    "authors": [
+      "Robotham, A.S.G.",
+      "Howlett, Cullan"
+    ],
+    "arxiv": "1805.09550",
+    "citations": 7,
+    "year": "2018",
+    "urls": [
+      "https://github.com/CullanHowlett/NFWdist"
+    ]
+  },
+  {
+    "id": "1632984",
+    "title": "BayesVP: a Bayesian Voigt profile fitting package",
+    "authors": [
+      "Liang, Cameron",
+      "Kravtsov, Andrey"
+    ],
+    "arxiv": "1710.09852",
+    "citations": 1,
+    "year": "2017",
+    "urls": [
+      "https://github.com/cameronliang/BayesVP"
+    ]
+  },
+  {
+    "id": "1500170",
+    "title": "ProFit: Bayesian Profile Fitting of Galaxy Images",
+    "authors": [
+      "Robotham, A.S.G.",
+      "Taranu, D.S.",
+      "Tobar, R.",
+      "Moffett, A.",
+      "Driver, S.P."
+    ],
+    "arxiv": "1611.08586",
+    "citations": 24,
+    "year": "2016",
+    "urls": [
+      "https://github.com/ICRAR/"
+    ]
+  },
+  {
+    "id": "1736568",
+    "title": "Reconstructing Probability Distributions with Gaussian Processes",
+    "authors": [
+      "McClintock, Thomas",
+      "Rozo, Eduardo"
+    ],
+    "arxiv": "1905.09299",
+    "citations": 13,
+    "year": "2019",
+    "urls": [
+      "https://github.com/tmcclintock/AReconstructionTool"
+    ]
+  },
+  {
+    "id": "1675782",
+    "title": "Mining gold from implicit models to improve likelihood-free inference",
+    "authors": [
+      "Brehmer, Johann",
+      "Louppe, Gilles",
+      "Pavez, Juan",
+      "Cranmer, Kyle"
+    ],
+    "arxiv": "1805.12244",
+    "citations": 125,
+    "year": "2018",
+    "urls": [
+      "https://github.com/johannbrehmer/simulator-mining-example"
+    ]
+  },
+  {
+    "id": "1800973",
+    "title": "GPU-accelerated periodic source identification in large-scale surveys: measuring $P$ and $\\dot{P}$",
+    "authors": [
+      "Katz, Michael L.",
+      "Cooper, Olivia R.",
+      "Coughlin, Michael W.",
+      "Burdge, Kevin B.",
+      "Breivik, Katelyn",
+      "Larson, Shane L."
+    ],
+    "arxiv": "2006.06866",
+    "citations": 4,
+    "year": "2020",
+    "urls": [
+      "https://github.com/mikekatz04/gce"
+    ]
+  },
+  {
+    "id": "1643763",
+    "title": "nbodykit: an open-source, massively parallel toolkit for large-scale structure",
+    "authors": [
+      "Hand, Nick",
+      "Feng, Yu",
+      "Beutler, Florian",
+      "Li, Yin",
+      "Modi, Chirag",
+      "Seljak, Uros",
+      "Slepian, Zachary"
+    ],
+    "arxiv": "1712.05834",
+    "citations": 305,
+    "year": "2017",
+    "urls": [
+      "https://github.com/bccp/nbodykit"
+    ]
+  },
+  {
+    "id": "1616054",
+    "title": "Science-Driven Optimization of the LSST Observing Strategy",
+    "authors": [
+      "Marshall, Phil",
+      "Anguita, Timo",
+      "Bianco, Federica B.",
+      "Bellm, Eric C.",
+      "Brandt, Niel",
+      "Clarkson, Will",
+      "Connolly, Andy",
+      "Gawiser, Eric",
+      "Ivezić, Željko",
+      "Jones, Lynne",
+      "Lochner, Michelle",
+      "Lund, Michael B.",
+      "Mahabal, Ashish",
+      "Nidever, David",
+      "Olsen, Knut",
+      "Ridgway, Stephen",
+      "Rhodes, Jason",
+      "Shemmer, Ohad",
+      "Trilling, David",
+      "Vivas, Kathy",
+      "Walkowicz, Lucianne",
+      "Willman, Beth",
+      "Yoachim, Peter",
+      "Anderson, Scott",
+      "Antilogus, Pierre",
+      "Angus, Ruth",
+      "Arcavi, Iair",
+      "Awan, Humna",
+      "Biswas, Rahul",
+      "Bell, Keaton J.",
+      "Bennett, David",
+      "Britt, Chris",
+      "Buzasi, Derek",
+      "Casetti-Dinescu, Dana I.",
+      "Chomiuk, Laura",
+      "Claver, Chuck",
+      "Cook, Kem",
+      "Davenport, James",
+      "Debattista, Victor",
+      "Digel, Seth",
+      "Doctor, Zoheyr",
+      "Firth, R.E.",
+      "Foley, Ryan",
+      "Fong, Wen-fai",
+      "Galbany, Lluís",
+      "Giampapa, Mark",
+      "Gizis, John E.",
+      "Graham, Melissa L.",
+      "Grillmair, Carl",
+      "Gris, Phillipe",
+      "Haiman, Zoltan",
+      "Hartigan, Patrick",
+      "Hawley, Suzanne",
+      "Hlozek, Renée",
+      "Jha, Saurabh W.",
+      "Johns-Krull, C.",
+      "Kanbur, Shashi",
+      "Kalogera, Vassiliki",
+      "Kashyap, Vinay",
+      "Kasliwal, Vishal",
+      "Kessler, Richard",
+      "Kim, Alex",
+      "Kurczynski, Peter",
+      "Lahav, Ofer",
+      "Liu, Michael C.",
+      "Malz, Alex",
+      "Margutti, Raffaella",
+      "Matheson, Tom",
+      "McEwen, Jason D.",
+      "McGehee, Peregrine",
+      "Meibom, Søren",
+      "Meyers, Josh",
+      "Monet, Dave",
+      "Neilsen, Eric",
+      "Newman, Jeffrey",
+      "O'Dowd, Matt",
+      "Peiris, Hiranya V.",
+      "Penny, Matthew T.",
+      "Peters, Christina",
+      "Poleski, Radosław",
+      "Ponder, Kara",
+      "Richards, Gordon",
+      "Rho, Jeonghee",
+      "Rubin, David",
+      "Schmidt, Samuel",
+      "Schuhmann, Robert L.",
+      "Shporer, Avi",
+      "Slater, Colin",
+      "Smith, Nathan",
+      "Soares-Santos, Marcelles",
+      "Stassun, Keivan",
+      "Strader, Jay",
+      "Strauss, Michael",
+      "Street, Rachel",
+      "Stubbs, Christopher",
+      "Sullivan, Mark",
+      "Szkody, Paula",
+      "Trimble, Virginia",
+      "Tyson, Tony",
+      "de Val-Borro, Miguel",
+      "Valenti, Stefano",
+      "Wagoner, Robert",
+      "Michael Wood-Vasey, W.",
+      "Zauderer, Bevin Ashley"
+    ],
+    "arxiv": "1708.04058",
+    "citations": 126,
+    "year": "2017",
+    "urls": [
+      "https://github.com/LSSTScienceCollaborations/ObservingStrategy"
+    ]
+  },
+  {
+    "id": "1735841",
+    "title": "Legacy Archive for Microwave Background Data Analysis (LAMBDA): An Overview",
+    "authors": [
+      "Addison, G.E.",
+      "Essinger-Hileman, T.M.",
+      "Greason, M.R.",
+      "Griswold, T.B.",
+      "Jaffe, T.",
+      "Miller, N.",
+      "Prasad, U.",
+      "Weiland, J.L."
+    ],
+    "arxiv": "1905.08667",
+    "citations": 2,
+    "year": "2019",
+    "urls": [
+      "https://github.com/nasa-lambda/lambda_overview"
+    ]
+  },
+  {
+    "id": "1803361",
+    "title": "Flavour Symmetry Embedded - GLoBES (FaSE-GLoBES)",
+    "authors": [
+      "Tang, Jian",
+      "Wang, Tse-Chun"
+    ],
+    "arxiv": "2006.14886",
+    "citations": 2,
+    "year": "2020",
+    "urls": [
+      "https://github.com/tcwphy/FASE_GLoBES"
+    ]
+  },
+  {
+    "id": "1681496",
+    "title": "Analysing billion-objects catalogue interactively: Apache Spark for physicists",
+    "authors": [
+      "Plaszczynski, S.",
+      "Peloton, J.",
+      "Arnault, C.",
+      "Campagne, J.E."
+    ],
+    "arxiv": "1807.03078",
+    "citations": 6,
+    "year": "2018",
+    "urls": [
+      "https://github.com/astrolabsoftware/1807.03078"
+    ]
+  },
+  {
+    "id": "1517433",
+    "title": "The igmspec Database of Public Spectra Probing the Intergalactic Medium",
+    "authors": [
+      "Prochaska, J. Xavier"
+    ],
+    "arxiv": "1703.04695",
+    "citations": 0,
+    "year": "2017",
+    "urls": [
+      "https://github.com/linetools/linetools"
+    ]
+  },
+  {
+    "id": "1753771",
+    "title": "The Quijote simulations",
+    "authors": [
+      "Villaescusa-Navarro, Francisco",
+      "Hahn, ChangHoon",
+      "Massara, Elena",
+      "Banerjee, Arka",
+      "Delgado, Ana Maria",
+      "Ramanah, Doogesh Kodi",
+      "Charnock, Tom",
+      "Giusarma, Elena",
+      "Li, Yin",
+      "Allys, Erwan",
+      "Brochard, Antoine",
+      "Uhlemann, Cora",
+      "Chiang, Chi-Ting",
+      "He, Siyu",
+      "Pisani, Alice",
+      "Obuljen, Andrej",
+      "Feng, Yu",
+      "Castorina, Emanuele",
+      "Contardo, Gabriella",
+      "Kreisch, Christina D.",
+      "Nicola, Andrina",
+      "Alsing, Justin",
+      "Scoccimarro, Roman",
+      "Verde, Licia",
+      "Viel, Matteo",
+      "Ho, Shirley",
+      "Mallat, Stephane",
+      "Wandelt, Benjamin",
+      "Spergel, David N."
+    ],
+    "arxiv": "1909.05273",
+    "citations": 354,
+    "year": "2019",
+    "urls": [
+      "https://github.com/franciscovillaescusa/Quijote-simulations"
+    ]
+  },
+  {
+    "id": "1805537",
+    "title": "TDCOSMO - IV. Hierarchical time-delay cosmography – joint inference of the Hubble constant and galaxy density profiles",
+    "authors": [
+      "Birrer, S.",
+      "Shajib, A.J.",
+      "Galan, A.",
+      "Millon, M.",
+      "Treu, T.",
+      "Agnello, A.",
+      "Auger, M.",
+      "Chen, G.C.-F.",
+      "Christensen, L.",
+      "Collett, T.",
+      "Courbin, F.",
+      "Fassnacht, C.D.",
+      "Koopmans, L.V.E.",
+      "Marshall, P.J.",
+      "Park, J.W.",
+      "Rusu, C.E.",
+      "Sluse, D.",
+      "Spiniello, C.",
+      "Suyu, S.H.",
+      "Wagner-Carena, S.",
+      "Wong, K.C.",
+      "Barnabè, M.",
+      "Bolton, A.S.",
+      "Czoske, O.",
+      "Ding, X.",
+      "Frieman, J.A.",
+      "Van de Vyvere, L."
+    ],
+    "arxiv": "2007.02941",
+    "citations": 383,
+    "year": "2020",
+    "urls": [
+      "https://github.com/TDCOSMO/hierarchy_analysis_2020_public"
+    ]
+  },
+  {
+    "id": "1814394",
+    "title": "Digital laser frequency and intensity stabilization based on the STEMlab platform (originally Red Pitaya)",
+    "authors": [
+      "Preuschoff, Tilman",
+      "Schlosser, Malte",
+      "Birkl, Gerhard"
+    ],
+    "arxiv": "2009.00343",
+    "citations": 13,
+    "year": "2020",
+    "urls": [
+      "https://github.com/TU-Darmstadt-APQ/RedPitaya-IntStab"
+    ]
+  },
+  {
+    "id": "1757762",
+    "title": "MADHAT: Model-Agnostic Dark Halo Analysis Tool",
+    "authors": [
+      "Boddy, Kimberly K.",
+      "Hill, Stephen",
+      "Kumar, Jason",
+      "Sandick, Pearl",
+      "Shams Es Haghi, Barmak"
+    ],
+    "arxiv": "1910.02890",
+    "citations": 16,
+    "year": "2019",
+    "urls": [
+      "https://github.com/MADHATdm"
+    ]
+  },
+  {
+    "id": "1608137",
+    "title": "High-energy neutrino attenuation in the Earth and its associated uncertainties",
+    "authors": [
+      "Vincent, Aaron C.",
+      "Argüelles, Carlos A.",
+      "Kheirandish, Ali"
+    ],
+    "arxiv": "1706.09895",
+    "citations": 52,
+    "year": "2017",
+    "urls": [
+      "https://github.com/aaronvincent/nuFATE"
+    ]
+  },
+  {
+    "id": "1746354",
+    "title": "Locust: C++ software for simulation of RF detection",
+    "authors": [
+      "Ashtari Esfahani, A.",
+      "Böser, S.",
+      "Buzinsky, N.",
+      "Cervantes, R.",
+      "Claessens, C.",
+      "de Viveiros, L.",
+      "Fertl, M.",
+      "Formaggio, J.A.",
+      "Gladstone, L.",
+      "Guigue, M.",
+      "Heeger, K.M.",
+      "Johnston, J.",
+      "Jones, A.M.",
+      "Kazkaz, K.",
+      "LaRoque, B.H.",
+      "Lindman, A.",
+      "Machado, E.",
+      "Monreal, B.",
+      "Morrison, E.C.",
+      "Nikkel, J.A.",
+      "Novitski, E.",
+      "Oblath, N.S.",
+      "Pettus, W.",
+      "Robertson, R.G.H.",
+      "Rybka, G.",
+      "Saldaña, L.",
+      "Sibille, V.",
+      "Schram, M.",
+      "Slocum, P.L.",
+      "Sun, Y.-H.",
+      "Tedeschi, J.R.",
+      "Thümmler, T.",
+      "VanDevender, B.A.",
+      "Wachtendonk, M.",
+      "Walter, M.",
+      "Weiss, T.E.",
+      "Wendler, T.",
+      "Zayas, E."
+    ],
+    "arxiv": "1907.11124",
+    "citations": 13,
+    "year": "2019",
+    "urls": [
+      "https://github.com/project8/locust_mc"
+    ]
+  },
+  {
+    "id": "1653964",
+    "title": "A fast C++ implementation of thermal functions",
+    "authors": [
+      "Fowlie, Andrew"
+    ],
+    "arxiv": "1802.02720",
+    "citations": 16,
+    "year": "2018",
+    "urls": [
+      "https://github.com/andrewfowlie/thermal_funcs"
+    ]
+  },
+  {
+    "id": "1634290",
+    "title": "A Statistical Distance Derived From The Kolmogorov-Smirnov Test: specification, reference measures (benchmarks) and example uses",
+    "authors": [
+      "Fabbri, Renato",
+      "De León, Fernando Gularte"
+    ],
+    "arxiv": "1711.00761",
+    "citations": 0,
+    "year": "2017",
+    "urls": [
+      "https://github.com/ttm/kolmogorov-smirnov"
+    ]
+  },
+  {
+    "id": "1500599",
+    "title": "Qudi: A modular python suite for experiment control and data processing",
+    "authors": [
+      "Binder, Jan M.",
+      "Stark, Alexander",
+      "Tomek, Nikolas",
+      "Scheuer, Jochen",
+      "Frank, Florian",
+      "Jahnke, Kay D.",
+      "Müller, Christoph",
+      "Schmitt, Simon",
+      "Metsch, Mathias H.",
+      "Unden, Thomas",
+      "Gehring, Tobias",
+      "Huck, Alexander",
+      "Andersen, Ulrik L.",
+      "Rogers, Lachlan J.",
+      "Jelezko, Fedor"
+    ],
+    "arxiv": "1611.09146",
+    "citations": 40,
+    "year": "2016",
+    "urls": [
+      "https://github.com/Ulm-IQO/qudi"
+    ]
+  },
+  {
+    "id": "1743804",
+    "title": "Mini-EUSO data acquisition and control software",
+    "authors": [
+      "Capel, F.",
+      "Belov, A.",
+      "Cambiè, G.",
+      "Casolino, M.",
+      "Fornaro, C.",
+      "Klimov, P.",
+      "Marcelli, L.",
+      "Piotrowski, L.W.",
+      "Turriziani, S."
+    ],
+    "arxiv": "1907.04938",
+    "citations": 7,
+    "year": "2019",
+    "urls": [
+      "https://github.com/cescalara/minieuso_cpu"
+    ]
+  },
+  {
+    "id": "1625243",
+    "title": "Distance measures in gravitational-wave astrophysics and cosmology",
+    "authors": [
+      "Chen, Hsin-Yu",
+      "Holz, Daniel E.",
+      "Miller, John",
+      "Evans, Matthew",
+      "Vitale, Salvatore",
+      "Creighton, Jolien"
+    ],
+    "arxiv": "1709.08079",
+    "citations": 178,
+    "year": "2017",
+    "urls": [
+      "https://github.com/hsinyuc/distancetool"
+    ]
+  },
+  {
+    "id": "1709227",
+    "title": "Core Cosmology Library: Precision Cosmological Predictions for LSST",
+    "authors": [
+      "Chisari, Nora Elisa",
+      "Alonso, David",
+      "Krause, Elisabeth",
+      "Leonard, C. Danielle",
+      "Bull, Philip",
+      "Neveu, Jerémy",
+      "Villarreal, Antonia",
+      "Singh, Sukhdeep",
+      "McClintock, Thomas",
+      "Ellison, John",
+      "Du, Zilong",
+      "Zuntz, Joe",
+      "Mead, Alexander",
+      "Joudaki, Shahab",
+      "Lorenz, Christiane S.",
+      "Troster, Tilman",
+      "Sanchez, Javier",
+      "Lanusse, Francois",
+      "Ishak, Mustapha",
+      "Hlozek, Renee",
+      "Blazek, Jonathan",
+      "Campagne, Jean-Eric",
+      "Almoubayyed, Husni",
+      "Eifler, Tim",
+      "Kirby, Matthew",
+      "Kirkby, David",
+      "Plaszczynski, Stephane",
+      "Slosar, Anže",
+      "Vrastil, Michal",
+      "Wagoner, Erika L."
+    ],
+    "arxiv": "1812.05995",
+    "citations": 311,
+    "year": "2018",
+    "urls": [
+      "https://github.com/LSSTDESC/CCL"
+    ]
+  },
+  {
+    "id": "1751727",
+    "title": "SimpleBounce : a simple package for the false vacuum decay",
+    "authors": [
+      "Sato, Ryosuke"
+    ],
+    "arxiv": "1908.10868",
+    "citations": 35,
+    "year": "2019",
+    "urls": [
+      "https://github.com/rsato64/SimpleBounce"
+    ]
+  },
+  {
+    "id": "1753996",
+    "title": "Data compression in cosmology: A compressed likelihood for Planck data",
+    "authors": [
+      "Prince, Heather",
+      "Dunkley, Jo"
+    ],
+    "arxiv": "1909.05869",
+    "citations": 39,
+    "year": "2019",
+    "urls": [
+      "https://github.com/heatherprince/cosmoped"
+    ]
+  },
+  {
+    "id": "1726773",
+    "title": "autoboot: A generator of bootstrap equations with global symmetry",
+    "authors": [
+      "Go, Mocho",
+      "Tachikawa, Yuji"
+    ],
+    "arxiv": "1903.10522",
+    "citations": 37,
+    "year": "2019",
+    "urls": [
+      "https://github.com/selpoG/autoboot/"
+    ]
+  },
+  {
+    "id": "1703624",
+    "title": "WAVE: Machine Learning for Full-Waveform Time-Of-Flight Detectors",
+    "authors": [
+      "Jocher, Glenn R.",
+      "Nishimura, Kurtis",
+      "Koblanski, John",
+      "Li, Viacheslav A."
+    ],
+    "arxiv": "1811.05875",
+    "citations": 0,
+    "year": "2018",
+    "urls": [
+      "https://github.com/ultralytics/wave"
+    ]
+  },
+  {
+    "id": "1376266",
+    "title": "A User-Friendly Dark Energy Model Generator",
+    "authors": [
+      "Hinton, Kyle A.",
+      "Becker, Adam",
+      "Huterer, Dragan"
+    ],
+    "arxiv": "1506.05088",
+    "citations": 0,
+    "year": "2015",
+    "urls": [
+      "https://github.com/kahinton/Dark-Energy-UI-and-MC"
+    ]
+  },
+  {
+    "id": "1641768",
+    "title": "Rings: an efficient Java/Scala library for polynomial rings",
+    "authors": [
+      "Poslavsky, Stanislav"
+    ],
+    "arxiv": "1712.02329",
+    "citations": 3,
+    "year": "2017",
+    "urls": [
+      "https://github.com/PoslavskySV/rings001641768"
+    ]
+  },
+  {
+    "id": "1516550",
+    "title": "CMU DeepLens: deep learning for automatic image-based galaxy–galaxy strong lens finding",
+    "authors": [
+      "Lanusse, Francois",
+      "Ma, Quanbin",
+      "Li, Nan",
+      "Collett, Thomas E.",
+      "Li, Chun-Liang",
+      "Ravanbakhsh, Siamak",
+      "Mandelbaum, Rachel",
+      "Poczos, Barnabas"
+    ],
+    "arxiv": "1703.02642",
+    "citations": 115,
+    "year": "2017",
+    "urls": [
+      "https://github.com/McWilliamsCenter/CMUDeepLens"
+    ]
+  },
+  {
+    "id": "1726482",
+    "title": "Jet grooming through reinforcement learning",
+    "authors": [
+      "Carrazza, Stefano",
+      "Dreyer, Frédéric A."
+    ],
+    "arxiv": "1903.09644",
+    "citations": 25,
+    "year": "2019",
+    "urls": [
+      "https://github.com/JetsGame/GroomRL"
+    ]
+  },
+  {
+    "id": "1265885",
+    "title": "Computation of hyperspherical Bessel functions",
+    "authors": [
+      "Tram, Thomas"
+    ],
+    "arxiv": "1311.0839",
+    "citations": 8,
+    "year": "2013",
+    "urls": [
+      "https://github.com/lesgourg/class_public"
+    ]
+  },
+  {
+    "id": "1752736",
+    "title": "Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning",
+    "authors": [
+      "Brehmer, Johann",
+      "Mishra-Sharma, Siddharth",
+      "Hermans, Joeri",
+      "Louppe, Gilles",
+      "Cranmer, Kyle"
+    ],
+    "arxiv": "1909.02005",
+    "citations": 84,
+    "year": "2019",
+    "urls": [
+      "https://github.com/smsharma/mining-for-substructure-lens"
+    ]
+  },
+  {
+    "id": "1490007",
+    "title": "Open high-level data formats and software for gamma-ray astronomy",
+    "authors": [
+      "Deil, Christoph",
+      "Boisson, Catherine",
+      "Kosack, Karl",
+      "Perkins, Jeremy",
+      "King, Johannes",
+      "Eger, Peter",
+      "Mayer, Michael",
+      "Wood, Matthew",
+      "Zabalza, Victor",
+      "Knödlseder, Jürgen",
+      "Hassan, Tarek",
+      "Mohrmann, Lars",
+      "Ziegler, Alexander",
+      "Khelifi, Bruno",
+      "Dorner, Daniela",
+      "Maier, Gernot",
+      "Pedaletti, Giovanna",
+      "Rosado, Jaime",
+      "Contreras, José Luis",
+      "Lefaucheur, Julien",
+      "Brügge, Kai",
+      "Servillat, Mathieu",
+      "Terrier, Régis",
+      "Walter, Roland",
+      "Lombardi, Saverio"
+    ],
+    "arxiv": "1610.01884",
+    "citations": 23,
+    "year": "2016",
+    "urls": [
+      "https://github.com/open-gamma-ray-astro"
+    ]
+  },
+  {
+    "id": "1868290",
+    "title": "MicroBooNE experiment, NuMI absorber, and heavy neutral leptons",
+    "authors": [
+      "Kelly, Kevin James",
+      "Machado, Pedro A.N."
+    ],
+    "arxiv": "2106.06548",
+    "citations": 39,
+    "year": "2021",
+    "urls": [
+      "https://github.com/kjkellyphys/muBHNL"
+    ]
+  },
+  {
+    "id": "1775290",
+    "title": "FeynCalc 9.3: New features and improvements",
+    "authors": [
+      "Shtabovenko, Vladyslav",
+      "Mertig, Rolf",
+      "Orellana, Frederik"
+    ],
+    "arxiv": "2001.04407",
+    "citations": 660,
+    "year": "2020",
+    "urls": [
+      "https://github.com/FeynCalc/feyncalc"
+    ]
+  },
+  {
+    "id": "1815862",
+    "title": "Gravitational-wave Merger Forecasting: Scenarios for the Early Detection and Localization of Compact-binary Mergers with Ground-based Observatories",
+    "authors": [
+      "Nitz, Alexander H.",
+      "Schäfer, Marlin",
+      "Dal Canton, Tito"
+    ],
+    "arxiv": "2009.04439",
+    "citations": 47,
+    "year": "2020",
+    "urls": [
+      "https://github.com/gwastro/gw-merger-forecasting"
+    ]
+  },
+  {
+    "id": "1211229",
+    "title": "A fast multigrid-based electromagnetic eigensolver for curved metal boundaries on the Yee mesh",
+    "authors": [
+      "Bauer, Carl A.",
+      "Werner, Gregory R.",
+      "Cary, John R."
+    ],
+    "arxiv": "1301.3794",
+    "citations": 1,
+    "year": "2013",
+    "urls": [
+      "https://github.com/bauerca/maxwell"
+    ]
+  },
+  {
+    "id": "1817122",
+    "title": "Developing a unified pipeline for large-scale structure data analysis with angular power spectra – III. Implementing the multitracer technique to constrain neutrino masses",
+    "authors": [
+      "Tanidis, Konstantinos",
+      "Camera, Stefano"
+    ],
+    "arxiv": "2009.05584",
+    "citations": 9,
+    "year": "2020",
+    "urls": [
+      "https://github.com/ktanidis/Modified_CosmoSIS_for_galaxy_number_count_angular_power_spectra"
+    ]
+  },
+  {
+    "id": "1493007",
+    "title": "PENTrack---a simulation tool for ultracold neutrons, protons, and electrons in complex electromagnetic fields and geometries",
+    "authors": [
+      "Schreyer, Wolfgang",
+      "Kikawa, Tatsuya",
+      "Losekamm, Martin J.",
+      "Paul, Stephan",
+      "Picker, Rüdiger"
+    ],
+    "arxiv": "1610.06358",
+    "citations": 20,
+    "year": "2016",
+    "urls": [
+      "https://github.com/wschreyer/PENTrack.git"
+    ]
+  },
+  {
+    "id": "1795052",
+    "title": "$F_K / F_\\pi$ from Möbius Domain-Wall fermions solved on gradient-flowed HISQ ensembles",
+    "authors": [
+      "Miller, Nolan",
+      "Monge-Camacho, Henry",
+      "Chang, Chia Cheng",
+      "Hörz, Ben",
+      "Rinaldi, Enrico",
+      "Howarth, Dean",
+      "Berkowitz, Evan",
+      "Brantley, David A.",
+      "Gambhir, Arjun Singh",
+      "Körber, Christopher",
+      "Monahan, Christopher J.",
+      "Clark, M.A.",
+      "Joó, Bálint",
+      "Kurth, Thorsten",
+      "Nicholson, Amy",
+      "Orginos, Kostas",
+      "Vranas, Pavlos",
+      "Walker-Loud, André"
+    ],
+    "arxiv": "2005.04795",
+    "citations": 48,
+    "year": "2020",
+    "urls": [
+      "https://github.com/callat-qcd/project_fkfpi"
+    ]
+  },
+  {
+    "id": "2955375",
+    "title": "Using Containers to Speed Up Development, to Run Integration Tests and to Teach About Distributed Systems",
+    "authors": [
+      "Mambelli, Marco",
+      "Moreira Coimbra, Bruno",
+      "Urs, Namratha",
+      "Baburashvili, Ilya"
+    ],
+    "arxiv": "2507.21464",
+    "citations": 0,
+    "year": "2025",
+    "urls": [
+      "https://github.com/glideinWMS/containers"
+    ]
+  },
+  {
+    "id": "1730707",
+    "title": "Proper Motions of Milky Way Ultra-faint Satellites with Gaia DR2 × DES DR1",
+    "authors": [
+      "Pace, Andrew B.",
+      "Li, Ting S."
+    ],
+    "arxiv": "1806.02345",
+    "citations": 36,
+    "year": "2018",
+    "urls": [
+      "https://github.com/apace7/gaia_cross_des_proper_motions"
+    ]
+  },
+  {
+    "id": "1748208",
+    "title": "Position-space curved-sky anisotropy quadratic estimation",
+    "authors": [
+      "Carron, Julien"
+    ],
+    "arxiv": "1908.02016",
+    "citations": 4,
+    "year": "2019",
+    "urls": [
+      "https://github.com/carronj/plancklens"
+    ]
+  },
+  {
+    "id": "1805529",
+    "title": "Search for Gravitational Waves from High-Mass-Ratio Compact-Binary Mergers of Stellar Mass and Subsolar Mass Black Holes",
+    "authors": [
+      "Nitz, Alexander Harvey",
+      "Wang, Yi-Fan"
+    ],
+    "arxiv": "2007.03583",
+    "citations": 57,
+    "year": "2020",
+    "urls": [
+      "https://github.com/gwastro/stellar-pbh-search"
+    ]
+  },
+  {
+    "id": "1792192",
+    "title": "Nonlinear perturbation theory extension of the Boltzmann code CLASS",
+    "authors": [
+      "Chudaykin, Anton",
+      "Ivanov, Mikhail M.",
+      "Philcox, Oliver H.E.",
+      "Simonović, Marko"
+    ],
+    "arxiv": "2004.10607",
+    "citations": 209,
+    "year": "2020",
+    "urls": [
+      "https://github.com/Michalychforever/lss_montepython"
+    ]
+  },
+  {
+    "id": "1714004",
+    "title": "Thermal-FIST: A package for heavy-ion collisions and hadronic equation of state",
+    "authors": [
+      "Vovchenko, Volodymyr",
+      "Stoecker, Horst"
+    ],
+    "arxiv": "1901.05249",
+    "citations": 170,
+    "year": "2019",
+    "urls": [
+      "https://github.com/vlvovch/Thermal-FIST"
+    ]
+  },
+  {
+    "id": "1494866",
+    "title": "Uncertainty propagation with functionally correlated quantities",
+    "authors": [
+      "Giordano, Mosè"
+    ],
+    "arxiv": "1610.08716",
+    "citations": 1,
+    "year": "2016",
+    "urls": [
+      "https://github.com/giordano/Measurements.jl"
+    ]
+  },
+  {
+    "id": "1672409",
+    "title": "Immersive Virtual Reality Experiences for All-Sky Data",
+    "authors": [
+      "Fluke, C.J.",
+      "Barnes, D.G."
+    ],
+    "arxiv": "1805.03354",
+    "citations": 1,
+    "year": "2018",
+    "urls": [
+      "https://github.com/cfluke/allskyVR"
+    ]
+  },
+  {
+    "id": "1636757",
+    "title": "Exploring a nonminimal sterile neutrino model involving decay at IceCube",
+    "authors": [
+      "Moss, Zander",
+      "Moulai, Marjon H.",
+      "Argüelles, Carlos A.",
+      "Conrad, Janet M."
+    ],
+    "arxiv": "1711.05921",
+    "citations": 54,
+    "year": "2017",
+    "urls": [
+      "https://github.com/arguelles/nuSQUIDSDecay"
+    ]
+  },
+  {
+    "id": "1806811",
+    "title": "Gravitational-wave selection effects using neural-network classifiers",
+    "authors": [
+      "Gerosa, Davide",
+      "Pratten, Geraint",
+      "Vecchio, Alberto"
+    ],
+    "arxiv": "2007.06585",
+    "citations": 40,
+    "year": "2020",
+    "urls": [
+      "https://github.com/dgerosa/pdetclassifier"
+    ]
+  },
+  {
+    "id": "1748585",
+    "title": "DoFun 3.0: Functional equations in Mathematica",
+    "authors": [
+      "Huber, Markus Q.",
+      "Cyrol, Anton K.",
+      "Pawlowski, Jan M."
+    ],
+    "arxiv": "1908.02760",
+    "citations": 44,
+    "year": "2019",
+    "urls": [
+      "https://github.com/markusqh/DoFun"
+    ]
+  },
+  {
+    "id": "1793073",
+    "title": "Robust posterior inference when statistically emulating forward simulations",
+    "authors": [
+      "Aslanyan, Grigor",
+      "Easther, Richard",
+      "Musoke, Nathan",
+      "Price, Layne C."
+    ],
+    "arxiv": "2004.11929",
+    "citations": 0,
+    "year": "2020",
+    "urls": [
+      "https://github.com/auckland-cosmo/LearnAsYouGoEmulator"
+    ]
+  },
+  {
+    "id": "1117819",
+    "title": "Pippi - painless parsing, post-processing and plotting of posterior and likelihood samples",
+    "authors": [
+      "Scott, Pat"
+    ],
+    "arxiv": "1206.2245",
+    "citations": 60,
+    "year": "2012",
+    "urls": [
+      "https://github.com/patscott/pippi"
+    ]
+  },
+  {
+    "id": "1670739",
+    "title": "Caffe: Convolutional Architecture for Fast Feature Embedding",
+    "authors": [
+      "Jia, Yangqing",
+      "Shelhamer, Evan",
+      "Donahue, Jeff",
+      "Karayev, Sergey",
+      "Long, Jonathan",
+      "Girshick, Ross",
+      "Guadarrama, Sergio",
+      "Darrell, Trevor"
+    ],
+    "arxiv": "1408.5093",
+    "citations": 48,
+    "year": "2014",
+    "urls": [
+      "https://github.com/BVLC/Caffe/"
+    ]
+  },
+  {
+    "id": "1765565",
+    "title": "Is there really a Hubble tension?",
+    "authors": [
+      "Rameez, Mohamed",
+      "Sarkar, Subir"
+    ],
+    "arxiv": "1911.06456",
+    "citations": 70,
+    "year": "2019",
+    "urls": [
+      "https://github.com/rameez3333/SN1aDataandH0"
+    ]
+  },
+  {
+    "id": "1724736",
+    "title": "Using a portable muon detector for radioactive source measurements and identification",
+    "authors": [
+      "Masias, J.",
+      "Delgado, F.",
+      "Coll, L.",
+      "Pérez, A.",
+      "Bazo, J.",
+      "Gago, A.M."
+    ],
+    "arxiv": "1903.04562",
+    "citations": 2,
+    "year": "2019",
+    "urls": [
+      "https://github.com/Jmasias04/Geant4-Simulation-of-Desktop-Muon-Detector"
+    ]
+  },
+  {
+    "id": "1502743",
+    "title": "Constraints On The Dynamical Environments Of Supermassive Black-hole Binaries Using Pulsar-timing Arrays",
+    "authors": [
+      "Taylor, Stephen R.",
+      "Simon, Joseph",
+      "Sampson, Laura"
+    ],
+    "arxiv": "1612.02817",
+    "citations": 64,
+    "year": "2016",
+    "urls": [
+      "https://github.com/stevertaylor/gw_pta_emulator"
+    ]
+  },
+  {
+    "id": "1681279",
+    "title": "Evaluating Black Hole Detectability with LISA",
+    "authors": [
+      "Katz, Michael L.",
+      "Larson, Shane L."
+    ],
+    "arxiv": "1807.02511",
+    "citations": 29,
+    "year": "2018",
+    "urls": [
+      "https://github.com/mikekatz04/BOWIE"
+    ]
+  },
+  {
+    "id": "1797581",
+    "title": "Efficient determination of HPGe γ -ray efficiencies at high energies with ready-to-use simulation software",
+    "authors": [
+      "Mayer, Jan",
+      "Hoemann, Elena",
+      "Müllenmeister, Markus",
+      "Scholz, Philipp",
+      "Zilges, Andreas"
+    ],
+    "arxiv": "2006.07010",
+    "citations": 4,
+    "year": "2020",
+    "urls": [
+      "https://github.com/janmayer/G4Horus"
+    ]
+  },
+  {
+    "id": "1627569",
+    "title": "DESCQA: An Automated Validation Framework for Synthetic Sky Catalogs",
+    "authors": [
+      "Mao, Yao-Yuan",
+      "Kovacs, Eve",
+      "Heitmann, Katrin",
+      "Uram, Thomas D.",
+      "Benson, Andrew J.",
+      "Campbell, Duncan",
+      "Cora, Sofía A.",
+      "DeRose, Joseph",
+      "Di Matteo, Tiziana",
+      "Habib, Salman",
+      "Hearin, Andrew P.",
+      "Bryce Kalmbach, J.",
+      "Simon Krughoff, K.",
+      "Lanusse, François",
+      "Lukić, Zarija",
+      "Mandelbaum, Rachel",
+      "Newman, Jeffrey A.",
+      "Padilla, Nelson",
+      "Paillas, Enrique",
+      "Pope, Adrian",
+      "Ricker, Paul M.",
+      "Ruiz, Andrés N.",
+      "Tenneti, Ananth",
+      "Vega-Martínez, Cristian",
+      "Wechsler, Risa H.",
+      "Zhou, Rongpu",
+      "Zu, Ying"
+    ],
+    "arxiv": "1709.09665",
+    "citations": 26,
+    "year": "2017",
+    "urls": [
+      "https://github.com/LSSTDESC/descqa"
+    ]
+  },
+  {
+    "id": "1673212",
+    "title": "VBBinaryLensing: a public package for microlensing light curve computation",
+    "authors": [
+      "Bozza, V.",
+      "Bachelet, E.",
+      "Bartolić, F.",
+      "Heintz, T.",
+      "Hoag, A.",
+      "Hundertmark, M."
+    ],
+    "arxiv": "1805.05653",
+    "citations": 8,
+    "year": "2018",
+    "urls": [
+      "https://github.com/valboz/VBBinaryLensing"
+    ]
+  },
+  {
+    "id": "1801007",
+    "title": "An optimized Ly α forest inversion tool based on a quantitative comparison of existing reconstruction methods",
+    "authors": [
+      "Müller, Hendrik",
+      "Behrens, Christoph",
+      "Marsh, David James Edward"
+    ],
+    "arxiv": "2006.07162",
+    "citations": 4,
+    "year": "2020",
+    "urls": [
+      "https://github.com/hmuellergoe/reglyman"
+    ]
+  },
+  {
+    "id": "1635036",
+    "title": "CGAlgebra: a Mathematica package for conformal geometric algebra. v.2.0",
+    "authors": [
+      "Ortiz-Duran, E. Alejandra",
+      "Aragon, Jose L."
+    ],
+    "arxiv": "1711.02513",
+    "citations": 0,
+    "year": "2017",
+    "urls": [
+      "https://github.com/jlaragonvera/Geometric-Algebra"
+    ]
+  },
+  {
+    "id": "1673071",
+    "title": "Tree-less 3d Friends-of-Friends using Spatial Hashing",
+    "authors": [
+      "Creasey, Peter E."
+    ],
+    "arxiv": "1805.04911",
+    "citations": 2,
+    "year": "2018",
+    "urls": [
+      "https://github.com/pec27/hfof"
+    ]
+  },
+  {
+    "id": "1722894",
+    "title": "Fast likelihood-free cosmology with neural density estimators and active learning",
+    "authors": [
+      "Alsing, Justin",
+      "Charnock, Tom",
+      "Feeney, Stephen",
+      "Wandelt, Benjamin"
+    ],
+    "arxiv": "1903.00007",
+    "citations": 198,
+    "year": "2019",
+    "urls": [
+      "https://github.com/justinalsing/pydelfi"
+    ]
+  },
+  {
+    "id": "1752520",
+    "title": "Lund jet images from generative and cycle-consistent adversarial networks",
+    "authors": [
+      "Carrazza, Stefano",
+      "Dreyer, Frédéric A."
+    ],
+    "arxiv": "1909.01359",
+    "citations": 56,
+    "year": "2019",
+    "urls": [
+      "https://github.com/JetsGame/CycleJet"
+    ]
+  },
+  {
+    "id": "1355190",
+    "title": "A Python Code for the Emmanoulopoulos et al. [arXiv:1305.0304] Light Curve Simulation Algorithm",
+    "authors": [
+      "Connolly, S D"
+    ],
+    "arxiv": "1503.06676",
+    "citations": 44,
+    "year": "2015",
+    "urls": [
+      "https://github.com/samconnolly/DELightcurveSimulation"
+    ]
+  },
+  {
+    "id": "1740032",
+    "title": "TensorNetwork for Machine Learning",
+    "authors": [
+      "Efthymiou, Stavros",
+      "Hidary, Jack",
+      "Leichenauer, Stefan"
+    ],
+    "arxiv": "1906.06329",
+    "citations": 52,
+    "year": "2019",
+    "urls": [
+      "https://github.com/google/tensornetwork"
+    ]
+  },
+  {
+    "id": "1797013",
+    "title": "Modelling and peeling extended sources with shapelets: a Fornax A case study",
+    "authors": [
+      "Line, J.L.B.",
+      "Mitchell, D.A.",
+      "Pindor, B.",
+      "Riding, J.L.",
+      "McKinley, B.",
+      "Webster, R.L.",
+      "Trott, C.M.",
+      "Hurley-Walker, N.",
+      "Offringa, A.R."
+    ],
+    "arxiv": "2005.09316",
+    "citations": 21,
+    "year": "2020",
+    "urls": [
+      "https://github.com/JLBLine/WODEN"
+    ]
+  },
+  {
+    "id": "1417066",
+    "title": "Extending the Coyote emulator to dark energy models with standard $w_0$-$w_a$ parametrization of the equation of state",
+    "authors": [
+      "Casarini, L.",
+      "Bonometto, S.A.",
+      "Tessarotto, E.",
+      "Corasaniti, P. -S."
+    ],
+    "arxiv": "1601.07230",
+    "citations": 42,
+    "year": "2016",
+    "urls": [
+      "https://github.com/luciano-casarini/PKequal"
+    ]
+  },
+  {
+    "id": "1750644",
+    "title": "Bias to CMB lensing from lensed foregrounds",
+    "authors": [
+      "Mishra, Nishant",
+      "Schaan, Emmanuel"
+    ],
+    "arxiv": "1908.08057",
+    "citations": 17,
+    "year": "2019",
+    "urls": [
+      "https://github.com/EmmanuelSchaan/LensedForegroundBias"
+    ]
+  },
+  {
+    "id": "1425650",
+    "title": "FastPM: a new scheme for fast simulations of dark matter and haloes",
+    "authors": [
+      "Feng, Yu",
+      "Chu, Man-Yat",
+      "Seljak, Uros",
+      "McDonald, Patrick"
+    ],
+    "arxiv": "1603.00476",
+    "citations": 219,
+    "year": "2016",
+    "urls": [
+      "https://github.com/rainwoodman/fastpm"
+    ]
+  },
+  {
+    "id": "1631330",
+    "title": "Is the bump significant? An axion-search example",
+    "authors": [
+      "Beaujean, Frederik",
+      "Caldwell, Allen",
+      "Reimann, Olaf"
+    ],
+    "arxiv": "1710.06642",
+    "citations": 12,
+    "year": "2017",
+    "urls": [
+      "https://github.com/fredRos/runs"
+    ]
+  },
+  {
+    "id": "1799933",
+    "title": "Beyond the Lognormal Approximation: a General Simulation Scheme",
+    "authors": [
+      "Tosone, Federico",
+      "Neyrinck, Mark C.",
+      "Granett, Benjamin R.",
+      "Guzzo, Luigi",
+      "Vittorio, Nicola"
+    ],
+    "arxiv": "2006.04653",
+    "citations": 4,
+    "year": "2020",
+    "urls": [
+      "https://github.com/tos-1/ITAM"
+    ]
+  },
+  {
+    "id": "1498538",
+    "title": "Filling the gaps: Gaussian mixture models from noisy, truncated or incomplete samples",
+    "authors": [
+      "Melchior, Peter",
+      "Goulding, Andy D."
+    ],
+    "arxiv": "1611.05806",
+    "citations": 14,
+    "year": "2016",
+    "urls": [
+      "https://github.com/pmelchior/pyGMMis"
+    ]
+  }
+]
